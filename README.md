@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm a senior Full-stack Blockchain/dApp Engineer. 
+## I'm a senior Full-stack Engineer. 
 
 
 😄 **Pronouns**: Ultra
