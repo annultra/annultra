@@ -34,7 +34,7 @@ overthrowing capitalism.
   <a href="https://github.com/annultra/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=annultra&count_private=true&show_icons=true&custom_title=MultiJump's%20Github%20Status&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=annultra&count_private=true&show_icons=true&custom_title=AnnUltra's%20Github%20Status&theme=vision-friendly-dark"
     />
    </a>
 
